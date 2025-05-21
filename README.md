@@ -16,10 +16,12 @@ jenkins/jenkins:lts-jdk17
 apt update && apt install -y docker.io
 
 ## 4.in jenkins Dashboard add credentials 
+    
+
 ## 5. inn pipelines item type create new items 
 configurations as shown below
+![image](https://github.com/user-attachments/assets/9269a7f9-1983-408d-9151-9e40e137e5d4)
 
 ![image](https://github.com/user-attachments/assets/8f0a2111-3a8e-41be-ba89-51bbc8b3b3a2)
-![image](https://github.com/user-attachments/assets/9269a7f9-1983-408d-9151-9e40e137e5d4)
 ![image](https://github.com/user-attachments/assets/3ae5b878-b0ed-4f7d-bf31-8e765f31e850)
 
